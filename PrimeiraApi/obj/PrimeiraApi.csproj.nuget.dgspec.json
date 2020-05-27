@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PrimeiraApi-NetCore\\PrimeiraApi\\PrimeiraApi.csproj": {}
+    "R:\\academiademoapi\\api-demo-bluid-deploy-automatico\\PrimeiraApi\\PrimeiraApi.csproj": {}
   },
   "projects": {
-    "E:\\PrimeiraApi-NetCore\\PrimeiraApi\\PrimeiraApi.csproj": {
+    "R:\\academiademoapi\\api-demo-bluid-deploy-automatico\\PrimeiraApi\\PrimeiraApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PrimeiraApi-NetCore\\PrimeiraApi\\PrimeiraApi.csproj",
+        "projectUniqueName": "R:\\academiademoapi\\api-demo-bluid-deploy-automatico\\PrimeiraApi\\PrimeiraApi.csproj",
         "projectName": "PrimeiraApi",
-        "projectPath": "E:\\PrimeiraApi-NetCore\\PrimeiraApi\\PrimeiraApi.csproj",
+        "projectPath": "R:\\academiademoapi\\api-demo-bluid-deploy-automatico\\PrimeiraApi\\PrimeiraApi.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "E:\\PrimeiraApi-NetCore\\PrimeiraApi\\obj\\",
+        "outputPath": "R:\\academiademoapi\\api-demo-bluid-deploy-automatico\\PrimeiraApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
