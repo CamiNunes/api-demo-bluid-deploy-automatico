@@ -1,0 +1,15 @@
+E:\PrimeiraApi-NetCore\PrimeiraApi\bin\Debug\netcoreapp2.1\PrimeiraApi.dll
+E:\PrimeiraApi-NetCore\PrimeiraApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\PrimeiraApi-NetCore\PrimeiraApi\bin\Debug\netcoreapp2.1\appsettings.json
+E:\PrimeiraApi-NetCore\PrimeiraApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\PrimeiraApi-NetCore\PrimeiraApi\bin\Debug\netcoreapp2.1\PrimeiraApi.deps.json
+E:\PrimeiraApi-NetCore\PrimeiraApi\bin\Debug\netcoreapp2.1\PrimeiraApi.runtimeconfig.json
+E:\PrimeiraApi-NetCore\PrimeiraApi\bin\Debug\netcoreapp2.1\PrimeiraApi.runtimeconfig.dev.json
+E:\PrimeiraApi-NetCore\PrimeiraApi\bin\Debug\netcoreapp2.1\PrimeiraApi.pdb
+E:\PrimeiraApi-NetCore\PrimeiraApi\obj\Debug\netcoreapp2.1\PrimeiraApi.RazorAssemblyInfo.cache
+E:\PrimeiraApi-NetCore\PrimeiraApi\obj\Debug\netcoreapp2.1\PrimeiraApi.RazorAssemblyInfo.cs
+E:\PrimeiraApi-NetCore\PrimeiraApi\obj\Debug\netcoreapp2.1\PrimeiraApi.AssemblyInfoInputs.cache
+E:\PrimeiraApi-NetCore\PrimeiraApi\obj\Debug\netcoreapp2.1\PrimeiraApi.AssemblyInfo.cs
+E:\PrimeiraApi-NetCore\PrimeiraApi\obj\Debug\netcoreapp2.1\PrimeiraApi.RazorTargetAssemblyInfo.cache
+E:\PrimeiraApi-NetCore\PrimeiraApi\obj\Debug\netcoreapp2.1\PrimeiraApi.dll
+E:\PrimeiraApi-NetCore\PrimeiraApi\obj\Debug\netcoreapp2.1\PrimeiraApi.pdb
