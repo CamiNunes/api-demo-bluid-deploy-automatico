@@ -15,5 +15,7 @@ namespace PrimeiraApi.Data
         }
 
         public DbSet<PrimeiraApi.Models.Cliente> Cliente { get; set; }
+
+        public DbSet<PrimeiraApi.Models.Usuario> Usuario { get; set; }
     }
 }
